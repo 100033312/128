@@ -8,3 +8,5 @@ public class Runner{
     System.out.println(index);
     array.sort();
     array.printArray();
+  }
+}
